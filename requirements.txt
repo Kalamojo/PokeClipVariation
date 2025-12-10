@@ -1,0 +1,17 @@
+# Pytorch
+
+--extra-index-url https://download.pytorch.org/whl/cu124
+torch
+torchvision
+torchaudio
+
+# StableDiffusionImageVariation
+diffusers
+transformers
+accelerate
+
+# Jupyter Notebooks
+ipython
+ipywidgets
+
+# CLIP
