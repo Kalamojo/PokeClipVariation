@@ -5,10 +5,11 @@ torch
 torchvision
 torchaudio
 
-# StableDiffusionImageVariation
+# StableDiffusion
 diffusers
 transformers
 accelerate
+peft
 
 # Jupyter Notebooks
 ipython
